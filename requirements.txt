@@ -1,0 +1,5 @@
+python-telegram-bot
+spacy
+python-dotenv
+wikipedia
+openai
